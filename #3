@@ -1,5 +1,4 @@
 const firstNum = 10
-
 const secondNum = 5
 
 const multipNum = firstNum * secondNum
