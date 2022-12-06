@@ -1,0 +1,7 @@
+const myName = 'Oleg';
+const myFamilyName = 'Rijikov';
+const myProfession = 'Dev&Designer'
+
+const aboutMySelf = 'My name is ' + myName + ' ' + myFamilyName + ' and i am a ' + myProfession
+
+console.log(aboutMySelf)
