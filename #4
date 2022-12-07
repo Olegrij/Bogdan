@@ -2,6 +2,12 @@ const myName = 'Oleg';
 const myFamilyName = 'Rijikov';
 const myProfession = 'Dev&Designer'
 
-const aboutMySelf = 'My name is ' + myName + ' ' + myFamilyName + ' and i am a ' + myProfession
+//option1
+const aboutMySelf = 'My name is ' + myName + ' ' + myFamilyName + ' and I am ' + myProfession
 
 console.log(aboutMySelf)
+
+//option2
+const aboutMySelf2 = `My name is ${myName} ${myFamilyName} and I am ${myProfession}`
+
+console.log(aboutMySelf2)
