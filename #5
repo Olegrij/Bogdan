@@ -1,0 +1,15 @@
+//Single-line comment
+
+const myCity = 'Tel aviv' // Your city here
+
+/* Multiline 
+comment 1 */
+
+/**
+ * Here
+ * we
+ * can
+ * see
+ * multiline
+ * comment
+ */
