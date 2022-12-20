@@ -1,0 +1,7 @@
+const myFn = function (name) {
+	return 'Hello, ' + name
+}
+
+console.log(myFn('Oleg'))
+
+console.log(myFn('Ira'))
