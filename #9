@@ -1,0 +1,9 @@
+const myFn = () => {
+	return 'Hello ,World';
+}
+
+console.log(myFn())
+
+const myFnNo = () => 'Hello, world!'
+
+console.log(myFnNo())
